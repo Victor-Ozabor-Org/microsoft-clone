@@ -1149,16 +1149,6 @@
         display: none;
     }
 
-    #hero-section {
-        height: 100vh;
-        background-image: url(../../Downloads/Highlight-Hero-Windows11-GlobalLaunch_VP4-1399x600.avif);
-        background-repeat: no-repeat;
-        background-position: inherit;
-        color: white;
-        font-family: "Segoe UI", SegoeUI, Arial, sans-serif;
-        background-size: cover;
-    }
-
     #main-P {
         margin-top: 0;
         margin-left: 0;
@@ -1515,7 +1505,7 @@
 
     #card-body-tab {
         padding-left: 15px;
-        
+
 
     }
 
