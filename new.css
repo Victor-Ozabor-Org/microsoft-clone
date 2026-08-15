@@ -1,0 +1,22 @@
+.chevron {
+    position: relative;
+    width: 20px;
+    height: 20px;
+}
+
+.chevron span {
+    position: absolute;
+    width: 10px;
+    height: 2px;
+    background: white;
+}
+
+.chevron span:first-child {
+    transform: rotate(45deg);
+    left: 3px;
+}
+
+.chevron span:last-child {
+    transform: rotate(-45deg);
+    right: 3px;
+}
